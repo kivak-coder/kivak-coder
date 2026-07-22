@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Victoria Efremova</h1>
-  <h2>I am in my second year in university (MAI) <br>
+  <h2>I am in my third year in university (MAI) <br>
   My specialization is Fundamental Informatics and Informational Technologies
   </h2>
 
