@@ -17,9 +17,4 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </p>
 
-  <!-- Ссылка на LeetCode -->
-  <a href="https://leetcode.com/u/VikaEf/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-  </a>
-
   <br><br>
